@@ -20,3 +20,7 @@ To run this project locally, follow the steps below:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Zai14/AI-Powered-Medical-Diagnosis-System.git
+2. Navigate to the project directory:
+ ```bash
+cd AI-Powered-Medical-Diagnosis-System
+
