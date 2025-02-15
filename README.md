@@ -48,7 +48,6 @@ streamlit run MDS.py
 ## Models Implemented
 **Support Vector Machine (SVM):** A supervised machine learning algorithm that can be used for both classification and regression challenges.
 **Logistic Regression:** A statistical model that uses a logistic function to model a binary dependent variable.
-
 **Random Forest:** An ensemble method that fits multiple decision trees on various sub-samples of the dataset and uses averaging to improve prediction accuracy.
 ```bash
 AI-Powered-Medical-Diagnosis-System/
