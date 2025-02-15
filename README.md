@@ -23,4 +23,6 @@ To run this project locally, follow the steps below:
 2. Navigate to the project directory:
  ```bash
 cd AI-Powered-Medical-Diagnosis-System
+pip install -r requirements.txt
+streamlit run MDS.py
 
