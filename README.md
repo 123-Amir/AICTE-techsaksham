@@ -24,7 +24,13 @@ To run this project locally, follow the steps below:
 2. Navigate to the project directory:
  ```bash
 cd AI-Powered-Medical-Diagnosis-System
+ ```
+Install the required dependencies:
+ ```bash
 pip install -r requirements.txt
+ ```
+Run the Streamlit app:
+ ```bash
 streamlit run MDS.py
  ```
 ## Usage
@@ -43,4 +49,20 @@ streamlit run MDS.py
 **Support Vector Machine (SVM):** A supervised machine learning algorithm that can be used for both classification and regression challenges.
 **Logistic Regression:** A statistical model that uses a logistic function to model a binary dependent variable.
 **Random Forest:** An ensemble method that fits multiple decision trees on various sub-samples of the dataset and uses averaging to improve prediction accuracy.
+```bash
+AI-Powered-Medical-Diagnosis-System/
+│
+├── MDS.py                  # Main application file for Streamlit
+├── data/                   # Folder containing the dataset (if applicable)
+├── requirements.txt         # Python dependencies
+├── README.md                # Project documentation
+└── models/                  # Folder for saving trained models (if applicable)
+```
+## Future Enhancements
+1)Implement more advanced models like Neural Networks for better diagnosis accuracy.
+2)Add cross-validation for better model evaluation.
+3)Improve the UI for a better user experience.
+### License
+This project is licensed under the MIT License.
+
  
