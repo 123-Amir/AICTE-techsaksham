@@ -64,5 +64,7 @@ AI-Powered-Medical-Diagnosis-System/
 3)Improve the UI for a better user experience.
 ### License
 This project is licensed under the MIT License.
+### Contact
+**For more information, please contact Zai14 through GitHub at Zai14.**
 
  
