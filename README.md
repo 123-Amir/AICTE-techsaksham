@@ -40,11 +40,11 @@ streamlit run MDS.py
 4) Choose a machine learning model (SVM, Logistic Regression, or Random Forest) for prediction.
 5) View results, including accuracy and classification report.
 ## Technologies Used
-**Python:** Main programming language used for building the application.
-**Scikit-learn:** Machine learning library for model training and evaluation.
-**Pandas:** Used for data manipulation and analysis.
-**NumPy:** Supports numerical computations.
-**Streamlit:** Web framework used to deploy the application.
+**Python:** Main programming language used for building the application.                  
+**Scikit-learn:** Machine learning library for model training and evaluation.        
+**Pandas:** Used for data manipulation and analysis.         
+**NumPy:** Supports numerical computations.      
+**Streamlit:** Web framework used to deploy the application.       
 ## Models Implemented
 **Support Vector Machine (SVM):** A supervised machine learning algorithm that can be used for both classification and regression challenges.
 **Logistic Regression:** A statistical model that uses a logistic function to model a binary dependent variable.        
