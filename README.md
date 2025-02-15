@@ -65,6 +65,6 @@ AI-Powered-Medical-Diagnosis-System/
 ### License
 This project is licensed under the MIT License.
 ### Contact
-**For more information, please contact Zai14 through GitHub at Zai14.**
+***For more information, please contact Zai14 through GitHub at Zai14.***
 
  
