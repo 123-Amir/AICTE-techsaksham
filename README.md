@@ -59,9 +59,9 @@ AI-Powered-Medical-Diagnosis-System/
 └── models/                  # Folder for saving trained models (if applicable)
 ```
 ## Future Enhancements
-1)Implement more advanced models like Neural Networks for better diagnosis accuracy.
-2)Add cross-validation for better model evaluation.
-3)Improve the UI for a better user experience.
+1)Implement more advanced models like Neural Networks for better diagnosis accuracy.        
+2)Add cross-validation for better model evaluation.        
+3)Improve the UI for a better user experience.       
 ### License
 This project is licensed under the MIT License.
 ### Contact
