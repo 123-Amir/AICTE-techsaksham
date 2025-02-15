@@ -14,7 +14,8 @@ The **AI-Powered Medical Diagnosis System** is a machine learning-based applicat
 - **Medical Dataset:** The system uses an anonymized dataset to train models for medical diagnosis.
 
 ## Installation
-To run this project locally, follow these steps:
+
+To run this project locally, follow the steps below:
 
 1. Clone the repository:
    ```bash
