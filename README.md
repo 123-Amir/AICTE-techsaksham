@@ -66,7 +66,8 @@ AI-Powered-Medical-Diagnosis-System/
 This project is licensed under the MIT License.
 ### Contact
 For more information, please contact Amir Hussain through his Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/amir-hussain-49383b259/])[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amirhussainremba@gmail.com) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-hussain-49383b259/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amirhussainremba@gmail.com) 
 .
 
  
