@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 
 # Title for the Streamlit app
 st.title("AI-Powered Medical Diagnosis System")
-
+st.image("https://shrishtionline.com/wp-content/uploads/2018/08/Article1-768x452-1.png", caption="Image from URL", use_container_width=True)
 # Load dataset (PIMA Indians Diabetes dataset as an example)
 url = "https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv"
 columns = ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
